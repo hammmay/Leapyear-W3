@@ -1,7 +1,8 @@
 # Leap Year Calculator
 A web page that accepts a year, and determines if the year is or will be a leap year...um, year.
 
-Code Specs
+#Code Specs
+
 |Behavior - Plain English|Input|Output|
 |---|---|---|
 |A year is not a leap year if it is not divisible by 4|1993|false|
